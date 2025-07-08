@@ -26,4 +26,8 @@ Welcome to the Ludo Game project! This is a web-based implementation of the clas
 - **Images:** Used for game board and pieces.
 - **Audio:** Incorporated for background music and sound effects.
 
+## Installation
 
+1. Clone the repository to your local machine.
+   ```bash
+   https://github.com/tusharagrahari214/Ludo.git
